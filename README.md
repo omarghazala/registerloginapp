@@ -32,9 +32,9 @@
 
 ** Use a JSON body (x-www-form-undencoded) for it sample : 
 
-key -> value
-email -> omarghazala585@gmail.com
-password -> 1234
+- key -> value
+- email -> omarghazala585@gmail.com
+- password -> 1234
 
 <h2>Get End points<h2>
 
@@ -44,8 +44,8 @@ password -> 1234
 
 ** Use a JSON header  for it sample : 
 
-key -> value
-Authorization -> Bearer eyJ0eXAiOiJKV1QiLCJhGciOiJIUzI1NiJ9.eyJzdWIiOiJvbWFyZ2hhemFsYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJST0xFX1VTRVIiXSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL2FwaS91c2VyL3NpZ251cCIsImV4cCI6MTY0NDcyODQ3NH0.erG3K0YQOp72HY9R-YvkreMq53n4JM7MMiB6xZ3zgGs
+- key -> value
+- Authorization -> Bearer eyJ0eXAiOiJKV1QiLCJhGciOiJIUzI1NiJ9.eyJzdWIiOiJvbWFyZ2hhemFsYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJST0xFX1VTRVIiXSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL2FwaS91c2VyL3NpZ251cCIsImV4cCI6MTY0NDcyODQ3NH0.erG3K0YQOp72HY9R-YvkreMq53n4JM7MMiB6xZ3zgGs
 
 
 
